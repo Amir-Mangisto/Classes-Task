@@ -1,0 +1,7 @@
+#container{
+    border-collapse: collapse;
+
+}
+td{
+    border: solid;
+}
